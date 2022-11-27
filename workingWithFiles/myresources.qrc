@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/myFiles">
+        <file>workingWithFiles.pro.user</file>
+    </qresource>
+    <qresource prefix="/addMain">
+        <file>main.cpp</file>
+    </qresource>
+</RCC>
